@@ -3,7 +3,7 @@ import React from "react"
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
-import logo from '/Users/Administrator/avance/src/components/logo/logoz.png'
+import logo from '../logo/logoz.png'
 
 const Footer = () => {
   return (
