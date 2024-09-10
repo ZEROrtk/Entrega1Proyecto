@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 import {FaTimes} from 'react-icons/fa';
 import { CiMenuFries } from 'react-icons/ci';
 import { FaBible } from "react-icons/fa";
-import logo from '/Users/Administrator/avance/src/components/logo/logoz.png'
+import logo from '../logo/logoz.png'
 
 const Navbar = () => {
     const[click, setClick] = useState(false);
